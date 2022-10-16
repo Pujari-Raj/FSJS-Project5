@@ -16,7 +16,7 @@ Technologies/ Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href="">
+<a href="https://pujari-project5.netlify.app">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 
@@ -27,7 +27,7 @@ Learnings from this projects:-
 * Different CSS properties.
 
 &nbsp;
-![Project-Image](./Screenshots/Project-5-ss.png "Title is optional")
+![Project-Image](./Screenshots/Project-5-ss.png "Project Screenshot")
 
 
 ## Time Taken to complete this project was 2 days.
